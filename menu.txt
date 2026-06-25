@@ -1,13 +1,9 @@
 CAFETERIA OPENAI
 
 Bebidas:
--Café 
--Té
+-Café solo
+-Té verde
 
 Postres:
 - Tarta de queso
 - Donut de chocolate
-
-Bebidas:
-- Café solo
-- Té verde
