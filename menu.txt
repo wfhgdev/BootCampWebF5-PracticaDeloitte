@@ -3,11 +3,9 @@ CAFETERIA OPENAI
 Bebidas:
 -Café 
 -Té
+- Chocolate
+- Zumo de naranja
 
 Postres:
 - Tarta de queso
 - Donut de chocolate
-
-Bebidas:
-- Chocolate
-- Zumo de naranja
